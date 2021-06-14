@@ -1,0 +1,31 @@
+
+ body {
+
+ @media screen (min-width: 810px) and (max-width: 1080px) ;
+}  
+    
+.w3-wide h2  {
+    font-size: 200px;
+    font-family: "lato";
+    float:right;
+    padding: 20px;
+  }
+  .w3-opacity{
+    font-size: 20px;
+    float:right;
+    color: rgba(201, 170, 170, 0.5) 
+  }
+  .card{
+    box-shadow: 0 0 4px rgba(0,0,0,0.4);
+    flex: 0 0 100%;
+  }
+  .w3-wide{
+    text-align: center;
+  }
+.w3-justify {
+  align-content: center;
+}
+
+/* remove if it did not work */
+
+
